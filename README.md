@@ -45,7 +45,7 @@
    Коснитесь единицы измерения температуры, чтобы переключиться между двумя единицами измерения.
 
 ## Скриншоты
-![image alt]()
+![image alt](![image](https://github.com/user-attachments/assets/ba1ba5a3-fcf7-475c-aef3-53408842fad8))
 ![image alt]()
 ![image alt]()
 ![image alt]()
