@@ -46,8 +46,9 @@
 
 ## Скриншоты
 ![image alt](https://github.com/user-attachments/assets/ba1ba5a3-fcf7-475c-aef3-53408842fad8)
-![image alt]()
-![image alt]()
-![image alt]()
+![image alt](https://github.com/user-attachments/assets/adfc2582-dc64-4c89-9284-9f2075098c27)
+![image alt](https://github.com/user-attachments/assets/c9079402-d8aa-4e35-883d-f8eafae014e6)
+![image alt](https://github.com/user-attachments/assets/f4fca2c0-f144-4746-ad4e-3642c7b0a3c7)
+
 
 
